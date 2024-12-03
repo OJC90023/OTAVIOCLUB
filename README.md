@@ -15,3 +15,6 @@ Para acessar o código referenre ás aulas, clique no seletor `main` do reposit�
 
 ## Notas e crétidos
 Feito por Guilherme Silveira, instrutor e fundador da alura.
+
+## Link
+file:///home/escola/Cine%20Club/index.html
